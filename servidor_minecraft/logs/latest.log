@@ -348,3 +348,11 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 03:24:43.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salmoonisa[/127.172.111.158:59897] logged in with entity id 37220 at (20.5, 70.0, -52.5)
 [14May2025 03:24:43.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa joined the game
 [14May2025 03:24:43.375] [Server thread/INFO] [Jade/]: Syncing config to salmoonisa (a6e51cd7-c804-33dc-8ce5-a84ed234fdcc)
+[14May2025 03:33:20.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa was slain by Zombie
+[14May2025 03:33:20.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa has made the advancement [Your First Grave]
+[14May2025 03:33:20.070] [Server thread/INFO] [tombstone/]: The player salmoonisa has successfully been saved
+[14May2025 03:35:29.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salmoonisa lost connection: Timed out
+[14May2025 03:35:29.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa left the game
+[14May2025 03:36:13.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salmoonisa[/127.172.111.158:39935] logged in with entity id 40081 at (43.15596637352548, 64.0, -51.589535197189186)
+[14May2025 03:36:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa joined the game
+[14May2025 03:36:13.065] [Server thread/INFO] [Jade/]: Syncing config to salmoonisa (a6e51cd7-c804-33dc-8ce5-a84ed234fdcc)
