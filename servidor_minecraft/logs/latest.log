@@ -314,3 +314,10 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 01:41:00.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Shpend'/7359, l='ServerLevel[hola gente]', x=-384.73, y=71.50, z=-2559.87] died: Shpend was pricked to death
 [14May2025 01:43:13.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Stone Age]
 [14May2025 01:43:21.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Getting an Upgrade]
+[14May2025 01:50:32.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Diamonds!]
+[14May2025 01:51:31.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Acquire Hardware]
+[14May2025 01:52:49.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Monster Hunter]
+[14May2025 01:56:12.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was pierced by Necromancer's icicle
+[14May2025 01:56:12.062] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 01:58:55.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was frozen by Ice Dragon
+[14May2025 01:58:55.873] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
