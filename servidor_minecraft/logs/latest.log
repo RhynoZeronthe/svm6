@@ -403,3 +403,73 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 03:55:10.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Tie me to the Mast]
 [14May2025 03:56:33.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9754ms or 195 ticks behind
 [14May2025 03:59:46.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Your First Receptacle]
+[14May2025 04:01:55.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RhynoJr) moved wrongly! 0.28401549549880656
+[14May2025 04:01:55.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RhynoJr) moved wrongly! 0.5675122863365232
+[14May2025 04:01:55.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RhynoJr) moved wrongly! 0.7950199364845503
+[14May2025 04:01:55.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RhynoJr) moved wrongly! 0.822875280601238
+[14May2025 04:02:33.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/52123, l='ServerLevel[hola gente]', x=-1671.50, y=37.00, z=-2035.50]
+[14May2025 04:03:29.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salmoonisa[/127.172.111.158:41469] logged in with entity id 52488 at (53.028055061026855, 68.0, -58.167762731913484)
+[14May2025 04:03:29.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa joined the game
+[14May2025 04:03:29.257] [Server thread/INFO] [Jade/]: Syncing config to salmoonisa (a6e51cd7-c804-33dc-8ce5-a84ed234fdcc)
+[14May2025 04:05:35.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of RhynoJr) moved wrongly! 0.28588577541063387
+[14May2025 04:07:27.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Sea Serpent
+[14May2025 04:07:27.631] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 04:07:37.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salmoonisa> jaja q nub
+[14May2025 04:07:51.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> mmm ok
+[14May2025 04:11:02.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa was slain by Ghost
+[14May2025 04:11:02.018] [Server thread/INFO] [tombstone/]: The player salmoonisa has successfully been saved
+[14May2025 04:11:13.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> q
+[14May2025 04:11:15.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> nub
+[14May2025 04:12:38.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa was slain by Ghost
+[14May2025 04:12:38.766] [Server thread/INFO] [tombstone/]: The player salmoonisa has successfully been saved
+[14May2025 04:13:18.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Sea Serpent
+[14May2025 04:13:18.069] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 04:13:31.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa has made the advancement [Alex's Mobs]
+[14May2025 04:14:28.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa was slain by Zombie
+[14May2025 04:14:28.030] [Server thread/INFO] [tombstone/]: The player salmoonisa has successfully been saved
+[14May2025 04:17:35.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Cover Me with Diamonds]
+[14May2025 04:17:35.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Funeral Theft]
+[14May2025 04:18:23.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa has made the advancement [Who You Gonna Call?]
+[14May2025 04:19:17.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Sea Serpent
+[14May2025 04:19:17.765] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 04:19:51.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made RhynoJr a server operator
+[14May2025 04:21:16.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Teleported RhynoJr to -2113.500000, 51.500000, -2401.500000]
+[14May2025 04:21:17.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa has made the advancement [Crops of the Wild]
+[14May2025 04:21:38.456] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-272, y=69, z=55}
+[14May2025 04:21:38.456] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-271, y=69, z=55}
+[14May2025 04:21:38.456] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-270, y=69, z=55}
+[14May2025 04:21:38.456] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-269, y=69, z=55}
+[14May2025 04:21:38.456] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=-268, y=69, z=55}
+[14May2025 04:21:38.456] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-267, y=69, z=55}
+[14May2025 04:21:38.456] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-266, y=69, z=55}
+[14May2025 04:21:38.457] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-265, y=69, z=55}
+[14May2025 04:21:38.457] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=nd,turn=false,waterlogged=false] but failed at location BlockPos{x=-264, y=69, z=55}
+[14May2025 04:21:38.457] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-263, y=69, z=55}
+[14May2025 04:21:38.457] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-262, y=69, z=55}
+[14May2025 04:21:38.457] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-261, y=69, z=55}
+[14May2025 04:21:38.457] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-260, y=69, z=55}
+[14May2025 04:21:38.457] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-259, y=69, z=55}
+[14May2025 04:21:38.457] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-258, y=69, z=55}
+[14May2025 04:21:50.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr drowned whilst trying to escape Sea Serpent
+[14May2025 04:21:50.691] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 04:22:08.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Teleported RhynoJr to -2088.500000, 61.500000, -2408.500000]
+[14May2025 04:23:01.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salmoonisa lost connection: Timed out
+[14May2025 04:23:01.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa left the game
+[14May2025 04:24:16.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salmoonisa[/127.172.111.158:39809] logged in with entity id 72557 at (62.017416282219514, 62.77982280048963, -29.236293035520706)
+[14May2025 04:24:16.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa joined the game
+[14May2025 04:24:16.227] [Server thread/INFO] [Jade/]: Syncing config to salmoonisa (a6e51cd7-c804-33dc-8ce5-a84ed234fdcc)
+[14May2025 04:25:14.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> ya chau pe
+[14May2025 04:25:49.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> me avisas cuando quieras q apague el sv
+[14May2025 04:25:57.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RhynoJr lost connection: Disconnected
+[14May2025 04:25:57.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr left the game
+[14May2025 04:30:06.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa has made the advancement [Stone Age]
+[14May2025 04:30:40.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa has made the advancement [Getting an Upgrade]
+[14May2025 04:31:43.908] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-274, y=69, z=55}
+[14May2025 04:31:43.910] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-273, y=69, z=55}
+[14May2025 04:31:43.912] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-275, y=69, z=55}
+[14May2025 04:33:50.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa has made the advancement [Monster Hunter]
+[14May2025 04:33:50.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa has made the advancement [A Strange Grave Dust]
+[14May2025 04:34:11.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa was shot by Skeleton
+[14May2025 04:34:11.758] [Server thread/INFO] [tombstone/]: The player salmoonisa has successfully been saved
+[14May2025 04:38:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa was slain by Zombie
+[14May2025 04:38:38.511] [Server thread/INFO] [tombstone/]: The player salmoonisa has successfully been saved
