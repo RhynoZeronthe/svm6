@@ -56,6 +56,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-14 01:18:14 +0000",
+      "minecraft:deep_ocean": "2025-05-14 03:51:40 +0000",
       "minecraft:birch_forest": "2025-05-14 01:42:14 +0000",
       "minecraft:beach": "2025-05-14 01:32:39 +0000",
       "minecraft:river": "2025-05-14 01:34:40 +0000",
@@ -240,6 +241,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_grill": {
     "criteria": {
       "has_iron": "2025-05-14 01:51:31 +0000"
@@ -342,6 +349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-14 01:47:11 +0000"
@@ -393,6 +406,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-14 01:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
     },
     "done": true
   },
@@ -454,7 +473,8 @@
     "criteria": {
       "minecraft:spider": "2025-05-14 01:52:49 +0000",
       "minecraft:enderman": "2025-05-14 02:24:22 +0000",
-      "minecraft:zombie": "2025-05-14 02:16:16 +0000"
+      "minecraft:zombie": "2025-05-14 02:16:16 +0000",
+      "minecraft:drowned": "2025-05-14 03:58:35 +0000"
     },
     "done": false
   },
@@ -491,6 +511,12 @@
   "cfm:recipes/decorations/spruce_desk": {
     "criteria": {
       "has_log": "2025-05-14 01:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
     },
     "done": true
   },
@@ -611,6 +637,18 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-05-14 01:47:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
     },
     "done": true
   },
@@ -770,6 +808,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
       "has_planks": "2025-05-14 01:28:16 +0000"
@@ -887,6 +937,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-14 01:47:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
     },
     "done": true
   },
@@ -1028,6 +1084,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-14 03:53:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-05-14 01:51:31 +0000"
@@ -1109,6 +1171,12 @@
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-05-14 01:51:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-14 03:52:52 +0000"
     },
     "done": true
   },
@@ -1310,6 +1378,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-05-14 01:50:26 +0000"
@@ -1424,6 +1498,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-05-14 01:42:21 +0000"
@@ -1535,6 +1615,24 @@
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_stone": "2025-05-14 01:47:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-14 03:55:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
     },
     "done": true
   },
@@ -1706,6 +1804,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-05-14 01:34:37 +0000"
@@ -1871,6 +1981,18 @@
   "cfm:recipes/decorations/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2025-05-14 01:46:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-14 03:51:11 +0000"
     },
     "done": true
   },
@@ -2298,6 +2420,12 @@
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-05-14 02:21:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-14 03:52:55 +0000"
     },
     "done": true
   },
