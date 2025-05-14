@@ -494,6 +494,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-05-14 02:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-05-14 01:53:30 +0000"
@@ -989,6 +995,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-05-14 01:35:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-05-14 02:42:41 +0000"
     },
     "done": true
   },
@@ -2153,6 +2165,12 @@
   "cfm:recipes/decorations/orange_grill": {
     "criteria": {
       "has_iron": "2025-05-14 01:51:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-05-14 02:48:35 +0000"
     },
     "done": true
   },
