@@ -339,3 +339,12 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 02:29:24.925] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=east,half=upper,hinge=left,open=true,powered=false,visible=false] but failed at location BlockPos{x=-625, y=217, z=-1734}
 [14May2025 02:32:09.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [First Age]
 [14May2025 02:36:34.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has reached the goal [Skyslime Island]
+[14May2025 03:20:58.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salmoonisa[/127.172.111.158:55811] logged in with entity id 36591 at (20.5, 70.0, -52.5)
+[14May2025 03:20:58.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa joined the game
+[14May2025 03:20:58.466] [Server thread/INFO] [Jade/]: Syncing config to salmoonisa (a6e51cd7-c804-33dc-8ce5-a84ed234fdcc)
+[14May2025 03:20:58.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa has made the advancement [Ice and Fire]
+[14May2025 03:21:28.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salmoonisa lost connection: Timed out
+[14May2025 03:21:28.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa left the game
+[14May2025 03:24:43.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salmoonisa[/127.172.111.158:59897] logged in with entity id 37220 at (20.5, 70.0, -52.5)
+[14May2025 03:24:43.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa joined the game
+[14May2025 03:24:43.375] [Server thread/INFO] [Jade/]: Syncing config to salmoonisa (a6e51cd7-c804-33dc-8ce5-a84ed234fdcc)
