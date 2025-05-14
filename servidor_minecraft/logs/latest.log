@@ -337,3 +337,5 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 02:17:54.917] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
 [14May2025 02:21:32.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Sea? Not a Problem]
 [14May2025 02:29:24.925] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=east,half=upper,hinge=left,open=true,powered=false,visible=false] but failed at location BlockPos{x=-625, y=217, z=-1734}
+[14May2025 02:32:09.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [First Age]
+[14May2025 02:36:34.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has reached the goal [Skyslime Island]

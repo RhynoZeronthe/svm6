@@ -222,6 +222,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-05-14 02:36:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_grill": {
     "criteria": {
       "has_iron": "2025-05-14 01:51:31 +0000"
@@ -584,6 +590,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-14 02:36:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_chair": {
     "criteria": {
       "has_planks": "2025-05-14 01:46:59 +0000"
@@ -721,6 +733,12 @@
       "has_iron": "2025-05-14 01:51:31 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-05-14 02:36:57 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
@@ -875,6 +893,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-14 01:50:32 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-05-14 02:32:09 +0000"
     },
     "done": true
   },
@@ -1376,6 +1400,12 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-05-14 02:36:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-05-14 01:27:10 +0000"
@@ -1592,6 +1622,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-05-14 02:36:57 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-05-14 01:51:31 +0000"
@@ -1709,6 +1745,12 @@
   "cfm:recipes/decorations/light_gray_trampoline": {
     "criteria": {
       "has_iron": "2025-05-14 01:51:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-05-14 02:36:57 +0000"
     },
     "done": true
   },
@@ -2171,6 +2213,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-05-14 02:28:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-14 02:36:57 +0000"
     },
     "done": true
   },

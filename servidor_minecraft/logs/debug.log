@@ -8519,3 +8519,9 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 02:29:24.448] [Worker-Main-23/DEBUG] [mixin/]: Mixing TankSegmentAccessor from create_enchantment_industry.mixins.json into com.simibubi.create.foundation.blockEntity.behaviour.fluid.SmartFluidTankBehaviour$TankSegment
 [14May2025 02:29:24.448] [Worker-Main-23/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:TankSegmentAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [14May2025 02:29:24.925] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:andesite_door}[facing=east,half=upper,hinge=left,open=true,powered=false,visible=false] but failed at location BlockPos{x=-625, y=217, z=-1734}
+[14May2025 02:32:09.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [First Age]
+[14May2025 02:34:23.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[14May2025 02:34:23.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[14May2025 02:36:34.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has reached the goal [Skyslime Island]
+[14May2025 02:39:23.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[14May2025 02:39:23.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
