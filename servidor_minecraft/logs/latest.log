@@ -473,3 +473,7 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 04:34:11.758] [Server thread/INFO] [tombstone/]: The player salmoonisa has successfully been saved
 [14May2025 04:38:38.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa was slain by Zombie
 [14May2025 04:38:38.511] [Server thread/INFO] [tombstone/]: The player salmoonisa has successfully been saved
+[14May2025 04:42:12.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa was doomed to fall by Skeleton
+[14May2025 04:42:12.242] [Server thread/INFO] [tombstone/]: The player salmoonisa has successfully been saved
+[14May2025 04:47:44.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salmoonisa lost connection: Disconnected
+[14May2025 04:47:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa left the game
