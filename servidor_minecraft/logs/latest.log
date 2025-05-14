@@ -356,3 +356,6 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 03:36:13.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salmoonisa[/127.172.111.158:39935] logged in with entity id 40081 at (43.15596637352548, 64.0, -51.589535197189186)
 [14May2025 03:36:13.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa joined the game
 [14May2025 03:36:13.065] [Server thread/INFO] [Jade/]: Syncing config to salmoonisa (a6e51cd7-c804-33dc-8ce5-a84ed234fdcc)
+[14May2025 03:46:47.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> ola pe
+[14May2025 03:46:52.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> ya volvi
+[14May2025 03:49:15.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-955, y=68, z=-1775} BlockPos{x=-941, y=47, z=-1878}
