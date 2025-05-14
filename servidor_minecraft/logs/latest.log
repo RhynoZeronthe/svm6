@@ -276,3 +276,41 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 01:25:19.949] [Server thread/INFO] [Jade/]: Syncing config to RhynoJr (4b189eae-3484-32b2-b6cf-86c50d2eeccd)
 [14May2025 01:26:41.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Sweet Dreams]
 [14May2025 01:27:12.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Crops of the Wild]
+[14May2025 01:29:29.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ergys'/3173, l='ServerLevel[hola gente]', x=-378.87, y=78.00, z=-2617.43] died, message: 'Ergys was frozen by Ice Dragon'
+[14May2025 01:29:29.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ergys'/3173, l='ServerLevel[hola gente]', x=-378.87, y=78.00, z=-2617.43] died: Ergys was turned to ice by Ice Dragon
+[14May2025 01:29:32.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fisnik'/3165, l='ServerLevel[hola gente]', x=-378.03, y=74.00, z=-2627.35] died, message: 'Fisnik was turned to ice by Ice Dragon'
+[14May2025 01:29:32.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Fisnik'/3165, l='ServerLevel[hola gente]', x=-378.03, y=74.00, z=-2627.35] died: Fisnik was turned to ice by Ice Dragon
+[14May2025 01:30:19.901] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Raif'/3221, l='ServerLevel[hola gente]', x=-346.60, y=70.94, z=-2626.73] died, message: 'Raif was frozen by Ice Dragon'
+[14May2025 01:30:19.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Raif'/3221, l='ServerLevel[hola gente]', x=-346.60, y=70.94, z=-2626.73] died: Raif was turned to ice by Ice Dragon
+[14May2025 01:30:28.103] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Endri'/3185, l='ServerLevel[hola gente]', x=-317.52, y=68.00, z=-2594.33] died, message: 'Endri was frozen by Ice Dragon'
+[14May2025 01:30:28.105] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Endri'/3185, l='ServerLevel[hola gente]', x=-317.52, y=68.00, z=-2594.33] died: Endri was turned to ice by Ice Dragon
+[14May2025 01:30:47.405] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marisa'/3186, l='ServerLevel[hola gente]', x=-390.96, y=73.00, z=-2625.16] died, message: 'Marisa was turned to ice by Ice Dragon'
+[14May2025 01:30:47.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marisa'/3186, l='ServerLevel[hola gente]', x=-390.96, y=73.00, z=-2625.16] died: Marisa was turned to ice by Ice Dragon
+[14May2025 01:31:54.450] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ermal'/3230, l='ServerLevel[hola gente]', x=-374.30, y=72.07, z=-2645.34] died, message: 'Ermal was slain by Ice Dragon'
+[14May2025 01:31:54.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ermal'/3230, l='ServerLevel[hola gente]', x=-374.30, y=72.07, z=-2645.34] died: Ermal was slain by Ice Dragon
+[14May2025 01:32:01.802] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Elvin'/3176, l='ServerLevel[hola gente]', x=-369.62, y=71.94, z=-2641.09] died, message: 'Elvin was turned to ice by Ice Dragon'
+[14May2025 01:32:01.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Elvin'/3176, l='ServerLevel[hola gente]', x=-369.62, y=71.94, z=-2641.09] died: Elvin was turned to ice by Ice Dragon
+[14May2025 01:33:02.855] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ajet'/3174, l='ServerLevel[hola gente]', x=-351.15, y=71.00, z=-2624.57] died, message: 'Ajet was frozen by Ice Dragon'
+[14May2025 01:33:02.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ajet'/3174, l='ServerLevel[hola gente]', x=-351.15, y=71.00, z=-2624.57] died: Ajet was turned to ice by Ice Dragon
+[14May2025 01:35:01.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Ice Dragon
+[14May2025 01:35:01.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Your First Grave]
+[14May2025 01:35:01.292] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 01:35:08.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has reached the goal [Here They Come]
+[14May2025 01:35:51.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Ice Dragon
+[14May2025 01:35:51.215] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 01:37:07.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was frozen by Ice Dragon
+[14May2025 01:37:07.616] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 01:38:06.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Knowledge of Death]
+[14May2025 01:38:06.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has reached the goal [Chain Death]
+[14May2025 01:38:06.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was turned to ice by Ice Dragon
+[14May2025 01:38:06.571] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 01:39:02.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Knowledge raises the soul]
+[14May2025 01:39:32.261] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/7541, l='ServerLevel[hola gente]', x=-287.06, y=83.02, z=-2533.28]
+[14May2025 01:39:32.261] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/7542, l='ServerLevel[hola gente]', x=-285.78, y=82.45, z=-2533.13]
+[14May2025 01:39:32.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/7546, l='ServerLevel[hola gente]', x=-287.98, y=82.24, z=-2529.42]
+[14May2025 01:39:32.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/7547, l='ServerLevel[hola gente]', x=-287.73, y=82.59, z=-2528.19]
+[14May2025 01:39:32.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/7548, l='ServerLevel[hola gente]', x=-287.16, y=82.30, z=-2527.04]
+[14May2025 01:41:00.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Shpend'/7359, l='ServerLevel[hola gente]', x=-384.73, y=71.50, z=-2559.87] died, message: 'Shpend was pricked to death'
+[14May2025 01:41:00.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Shpend'/7359, l='ServerLevel[hola gente]', x=-384.73, y=71.50, z=-2559.87] died: Shpend was pricked to death
+[14May2025 01:43:13.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Stone Age]
+[14May2025 01:43:21.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Getting an Upgrade]
