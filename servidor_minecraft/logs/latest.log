@@ -321,3 +321,17 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [14May2025 01:56:12.062] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
 [14May2025 01:58:55.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was frozen by Ice Dragon
 [14May2025 01:58:55.873] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 02:02:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was frozen by Ice Dragon
+[14May2025 02:02:21.814] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 02:02:35.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Suit Up]
+[14May2025 02:03:53.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RhynoJr moved wrongly!
+[14May2025 02:04:00.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was frozen by Ice Dragon
+[14May2025 02:04:00.311] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 02:10:29.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has completed the challenge [Free Willy]
+[14May2025 02:11:14.460] [Worker-Main-42/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-847, y=26, z=-2028}
+[14May2025 02:11:28.013] [Worker-Main-23/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-859, y=13, z=-1961}
+[14May2025 02:11:31.266] [Worker-Main-42/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-923, y=10, z=-1950}
+[14May2025 02:12:05.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was pierced by Necromancer's icicle
+[14May2025 02:12:05.510] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[14May2025 02:17:54.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Sea Serpent
+[14May2025 02:17:54.917] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
