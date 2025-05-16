@@ -325,3 +325,27 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [16May2025 02:11:19.668] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-3246, y=63, z=-2694}
 [16May2025 02:11:19.668] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-3245, y=63, z=-2694}
 [16May2025 02:11:19.670] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:track}[shape=xo,turn=false,waterlogged=false] but failed at location BlockPos{x=-3244, y=63, z=-2694}
+[16May2025 02:23:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Isn't It Iron Pick]
+[16May2025 02:29:57.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salmoonisa[/127.172.111.158:51955] logged in with entity id 25566 at (-1.6044753181841522, 67.0, 257.9829324427839)
+[16May2025 02:29:57.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa joined the game
+[16May2025 02:29:57.659] [Server thread/INFO] [Jade/]: Syncing config to salmoonisa (a6e51cd7-c804-33dc-8ce5-a84ed234fdcc)
+[16May2025 02:30:54.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Quickly Applied]
+[16May2025 02:31:00.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Vanishing]
+[16May2025 02:31:20.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa was slain by Zombie
+[16May2025 02:31:20.936] [Server thread/INFO] [tombstone/]: The player salmoonisa has successfully been saved
+[16May2025 02:42:24.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> como vas pe??
+[16May2025 02:43:10.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <salmoonisa> me acaba de cargar el juego.......
+[16May2025 02:43:27.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> :O
+[16May2025 02:44:14.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salmoonisa lost connection: Timed out
+[16May2025 02:44:14.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa left the game
+[16May2025 02:51:07.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was turned to stone by Gorgon
+[16May2025 02:51:07.219] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[16May2025 02:51:38.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was turned into gorgonzola by Gorgon
+[16May2025 02:51:38.171] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[16May2025 02:52:18.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was turned into gorgonzola by Gorgon
+[16May2025 02:52:18.619] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[16May2025 02:52:30.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Teleported RhynoJr to -3527.500000, 65.500000, -2801.500000]
+[16May2025 02:52:38.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Clash of the Titans]
+[16May2025 02:54:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Set own game mode to Creative Mode]
+[16May2025 02:55:07.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Set own game mode to Survival Mode]
+[16May2025 02:55:54.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Set own game mode to Creative Mode]
