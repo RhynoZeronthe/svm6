@@ -266,3 +266,25 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [16May2025 01:13:45.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 drowned
 [16May2025 01:13:45.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 has made the advancement [Your First Grave]
 [16May2025 01:13:45.134] [Server thread/INFO] [tombstone/]: The player 1SUPER_POLLO1 has successfully been saved
+[16May2025 01:35:04.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1SUPER_POLLO1 lost connection: Disconnected
+[16May2025 01:35:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 left the game
+[16May2025 01:35:09.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1SUPER_POLLO1[/127.96.57.43:39249] logged in with entity id 4724 at (-277.69999998807907, 67.0, 54.34928013735591)
+[16May2025 01:35:09.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 joined the game
+[16May2025 01:35:09.862] [Server thread/INFO] [Jade/]: Syncing config to 1SUPER_POLLO1 (c210f34a-0318-35c1-9b1e-092ce00ecc29)
+[16May2025 01:35:41.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RhynoJr[/127.134.156.158:49891] logged in with entity id 4948 at (-2126.7768326317814, 65.0, -2399.0207873925665)
+[16May2025 01:35:41.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr joined the game
+[16May2025 01:35:41.333] [Server thread/INFO] [Jade/]: Syncing config to RhynoJr (4b189eae-3484-32b2-b6cf-86c50d2eeccd)
+[16May2025 01:36:53.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> ola pe
+[16May2025 01:37:15.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1SUPER_POLLO1> wenas
+[16May2025 01:39:27.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Sea Serpent
+[16May2025 01:39:27.394] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[16May2025 01:39:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1SUPER_POLLO1> ora si q me dio falla grafica xdd
+[16May2025 01:39:44.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> buuu
+[16May2025 01:39:52.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> q paso
+[16May2025 01:39:55.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1SUPER_POLLO1> su ptm otra vez
+[16May2025 01:40:06.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> a mi me matan mobs invisibles
+[16May2025 01:40:17.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1SUPER_POLLO1> xdd
+[16May2025 01:43:22.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Teleported RhynoJr to -2228.500000, 51.500000, -2510.500000]
+[16May2025 01:43:57.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Sea Serpent
+[16May2025 01:43:57.385] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[16May2025 01:44:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Teleported RhynoJr to -2248.500000, 53.500000, -2541.500000]
