@@ -257,3 +257,12 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [16May2025 00:46:13.288] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
 [16May2025 00:46:13.288] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
 [16May2025 00:46:13.400] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[16May2025 01:07:51.452] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[16May2025 01:07:51.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1SUPER_POLLO1[/127.96.57.43:39573] logged in with entity id 913 at (21.5, 69.0, -50.5)
+[16May2025 01:07:51.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 joined the game
+[16May2025 01:07:51.859] [Server thread/INFO] [Jade/]: Syncing config to 1SUPER_POLLO1 (c210f34a-0318-35c1-9b1e-092ce00ecc29)
+[16May2025 01:07:52.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 has made the advancement [Ice and Fire]
+[16May2025 01:12:28.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 has made the advancement [Alex's Mobs]
+[16May2025 01:13:45.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 drowned
+[16May2025 01:13:45.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 has made the advancement [Your First Grave]
+[16May2025 01:13:45.134] [Server thread/INFO] [tombstone/]: The player 1SUPER_POLLO1 has successfully been saved
