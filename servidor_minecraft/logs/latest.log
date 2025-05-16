@@ -349,3 +349,6 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [16May2025 02:54:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Set own game mode to Creative Mode]
 [16May2025 02:55:07.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Set own game mode to Survival Mode]
 [16May2025 02:55:54.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Set own game mode to Creative Mode]
+[16May2025 02:56:39.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Set own game mode to Survival Mode]
+[16May2025 02:57:21.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RhynoJr lost connection: Disconnected
+[16May2025 02:57:21.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr left the game

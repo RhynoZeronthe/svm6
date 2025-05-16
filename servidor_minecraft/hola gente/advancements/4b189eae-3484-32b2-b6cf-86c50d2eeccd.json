@@ -4461,6 +4461,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-05-16 02:56:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-05-16 02:36:03 +0000"
@@ -5448,6 +5454,12 @@
   "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
       "has_item": "2025-05-16 02:15:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-05-16 02:52:38 +0000"
     },
     "done": true
   },
