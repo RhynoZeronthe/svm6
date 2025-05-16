@@ -288,3 +288,31 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [16May2025 01:43:57.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Sea Serpent
 [16May2025 01:43:57.385] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
 [16May2025 01:44:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RhynoJr: Teleported RhynoJr to -2248.500000, 53.500000, -2541.500000]
+[16May2025 01:48:01.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> yo creo q
+[16May2025 01:48:09.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> hay q poner un mapa mejor
+[16May2025 01:49:06.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 was slain by Zombie
+[16May2025 01:49:06.875] [Server thread/INFO] [tombstone/]: The player 1SUPER_POLLO1 has successfully been saved
+[16May2025 01:49:45.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1SUPER_POLLO1 lost connection: Disconnected
+[16May2025 01:49:45.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 left the game
+[16May2025 01:49:56.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Ashes 'n Bones]
+[16May2025 01:50:32.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [A Strange Grave Dust]
+[16May2025 01:54:56.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1SUPER_POLLO1[/127.96.57.43:53721] logged in with entity id 14568 at (9.074890909553261, 72.0, -56.278531652215634)
+[16May2025 01:54:56.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 joined the game
+[16May2025 01:54:56.430] [Server thread/INFO] [Jade/]: Syncing config to 1SUPER_POLLO1 (c210f34a-0318-35c1-9b1e-092ce00ecc29)
+[16May2025 01:55:12.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salmoonisa[/127.172.111.158:57975] logged in with entity id 14747 at (-1.6044753181841522, 67.0, 257.9829324427839)
+[16May2025 01:55:12.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa joined the game
+[16May2025 01:55:12.818] [Server thread/INFO] [Jade/]: Syncing config to salmoonisa (a6e51cd7-c804-33dc-8ce5-a84ed234fdcc)
+[16May2025 01:55:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <1SUPER_POLLO1> ai si
+[16May2025 01:55:34.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 has reached the goal [Here They Come]
+[16May2025 01:55:35.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RhynoJr> q weno pe
+[16May2025 01:55:42.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salmoonisa lost connection: Timed out
+[16May2025 01:55:42.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa left the game
+[16May2025 01:56:08.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1SUPER_POLLO1 lost connection: Disconnected
+[16May2025 01:56:08.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1SUPER_POLLO1 left the game
+[16May2025 01:58:59.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Who You Gonna Call?]
+[16May2025 02:01:19.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: salmoonisa[/127.172.111.158:45639] logged in with entity id 17403 at (-1.6044753181841522, 67.0, 257.9829324427839)
+[16May2025 02:01:19.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa joined the game
+[16May2025 02:01:19.076] [Server thread/INFO] [Jade/]: Syncing config to salmoonisa (a6e51cd7-c804-33dc-8ce5-a84ed234fdcc)
+[16May2025 02:02:49.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: salmoonisa lost connection: Disconnected
+[16May2025 02:02:49.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: salmoonisa left the game
+[16May2025 02:02:49.245] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
