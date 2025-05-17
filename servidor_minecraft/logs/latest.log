@@ -261,3 +261,17 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [17May2025 00:56:33.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr joined the game
 [17May2025 00:56:33.733] [Server thread/INFO] [Jade/]: Syncing config to RhynoJr (4b189eae-3484-32b2-b6cf-86c50d2eeccd)
 [17May2025 00:56:35.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[17May2025 01:43:10.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was doomed to fall
+[17May2025 01:43:10.645] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[17May2025 01:43:47.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Cyclops
+[17May2025 01:43:47.177] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[17May2025 01:44:33.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Cyclops
+[17May2025 01:44:33.227] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[17May2025 01:45:43.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RhynoJr moved wrongly!
+[17May2025 01:45:52.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Cyclops
+[17May2025 01:45:52.729] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[17May2025 01:46:19.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [My Name is Nobody]
+[17May2025 01:49:09.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Take Aim]
+[17May2025 01:49:09.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Poseidon, God of the Seas]
+[17May2025 01:56:51.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RhynoJr lost connection: Disconnected
+[17May2025 01:56:51.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr left the game

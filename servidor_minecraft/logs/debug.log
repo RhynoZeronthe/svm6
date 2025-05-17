@@ -8034,3 +8034,41 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [17May2025 01:21:26.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
 [17May2025 01:26:26.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
 [17May2025 01:26:26.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 01:31:26.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[17May2025 01:31:26.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 01:36:26.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[17May2025 01:36:26.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 01:41:26.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[17May2025 01:41:26.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 01:43:10.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was doomed to fall
+[17May2025 01:43:10.618] [Server thread/DEBUG] [tombstone/]: A new grave of the player RhynoJr was created at position [x:-4027, y:65, z:-2981, dim:minecraft:overworld]
+[17May2025 01:43:10.645] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[17May2025 01:43:15.269] [Server thread/DEBUG] [twilightforest/]: Player RhynoJr (4b189eae-3484-32b2-b6cf-86c50d2eeccd) respawned and received items held in storage
+[17May2025 01:43:15.581] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1747446195576
+[17May2025 01:43:47.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Cyclops
+[17May2025 01:43:47.166] [Server thread/DEBUG] [tombstone/]: A new grave of the player RhynoJr was created at position [x:-4020, y:70, z:-2984, dim:minecraft:overworld]
+[17May2025 01:43:47.177] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[17May2025 01:43:48.820] [Server thread/DEBUG] [twilightforest/]: Player RhynoJr (4b189eae-3484-32b2-b6cf-86c50d2eeccd) respawned and received items held in storage
+[17May2025 01:43:48.985] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1747446228985
+[17May2025 01:44:33.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Cyclops
+[17May2025 01:44:33.215] [Server thread/DEBUG] [tombstone/]: A new grave of the player RhynoJr was created at position [x:-4020, y:71, z:-2969, dim:minecraft:overworld]
+[17May2025 01:44:33.227] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[17May2025 01:44:35.529] [Server thread/DEBUG] [twilightforest/]: Player RhynoJr (4b189eae-3484-32b2-b6cf-86c50d2eeccd) respawned and received items held in storage
+[17May2025 01:44:35.849] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1747446275849
+[17May2025 01:45:43.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RhynoJr moved wrongly!
+[17May2025 01:45:52.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr was slain by Cyclops
+[17May2025 01:45:52.715] [Server thread/DEBUG] [tombstone/]: A new grave of the player RhynoJr was created at position [x:-4011, y:64, z:-2974, dim:minecraft:overworld]
+[17May2025 01:45:52.729] [Server thread/INFO] [tombstone/]: The player RhynoJr has successfully been saved
+[17May2025 01:45:54.866] [Server thread/DEBUG] [twilightforest/]: Player RhynoJr (4b189eae-3484-32b2-b6cf-86c50d2eeccd) respawned and received items held in storage
+[17May2025 01:45:55.023] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1747446355021
+[17May2025 01:46:19.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [My Name is Nobody]
+[17May2025 01:46:26.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[17May2025 01:46:26.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 01:49:09.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Take Aim]
+[17May2025 01:49:09.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Poseidon, God of the Seas]
+[17May2025 01:51:26.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[17May2025 01:51:26.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 01:56:26.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[17May2025 01:56:26.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 01:56:51.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RhynoJr lost connection: Disconnected
+[17May2025 01:56:51.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr left the game
