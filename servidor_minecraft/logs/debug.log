@@ -7793,3 +7793,7 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [17May2025 00:14:26.908] [Netty Epoll Server IO #2/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
 [17May2025 00:16:24.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
 [17May2025 00:16:24.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 00:21:24.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[17May2025 00:21:24.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 00:26:24.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[17May2025 00:26:24.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
