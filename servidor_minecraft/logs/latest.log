@@ -265,3 +265,5 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [17May2025 22:58:30.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr joined the game
 [17May2025 22:58:30.174] [Server thread/INFO] [Jade/]: Syncing config to RhynoJr (4b189eae-3484-32b2-b6cf-86c50d2eeccd)
 [17May2025 23:01:00.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr has made the advancement [Herc was on a Roll!]
+[17May2025 23:46:49.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RhynoJr lost connection: Disconnected
+[17May2025 23:46:49.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RhynoJr left the game
