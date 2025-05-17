@@ -8005,3 +8005,11 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 [17May2025 23:02:31.154] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
 [17May2025 23:02:33.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
 [17May2025 23:02:33.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 23:07:33.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[17May2025 23:07:33.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 23:12:33.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[17May2025 23:12:33.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 23:17:33.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[17May2025 23:17:33.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
+[17May2025 23:22:33.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save hola gente
+[17May2025 23:22:33.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete hola gente
